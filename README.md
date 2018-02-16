@@ -9,4 +9,5 @@ There are additional 2 options to display:
 2. Daily weather forecast : Displays the daily forecast for a week from the current day. It shows the maximum Temperature of that day, weather icon and the day name.
 
 Libraries used : OkHttp, ButterKnife
+
 Design Patterns used : MVP, RecyclerView, ViewHolder
