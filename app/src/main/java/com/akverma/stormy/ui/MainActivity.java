@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity implements LocationProvider.
     }
 
     private void getForecast() {
-        String apiKey = "695800db85d570b40777265aa24d92bf";
+        String apiKey = Generate Your key from https://darksky.net/dev;
 
         String forecastUrl = "https://api.darksky.net/forecast/" + apiKey +
                 "/" + latitude + "," + longitude;
